@@ -1,2 +1,2 @@
 # upgraded-giggle
-just some **experimental repository**:metal:
+just some __experimental repository__:metal:
